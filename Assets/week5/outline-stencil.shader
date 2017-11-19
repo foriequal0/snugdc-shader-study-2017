@@ -25,7 +25,7 @@
 		Pass
 		{
 			ZTest always
-			ZWrite off
+			ZWrite on
 			Cull Front
 			CGPROGRAM
 			#pragma vertex vert
