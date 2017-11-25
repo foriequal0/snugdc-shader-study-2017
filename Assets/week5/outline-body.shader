@@ -1,4 +1,4 @@
-﻿Shader "Week5/OutlneBody" {
+﻿Shader "week5/outline-body" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}

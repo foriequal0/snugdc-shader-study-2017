@@ -1,4 +1,4 @@
-﻿Shader "Week5/StencilRed"
+﻿Shader "week5/stencil-red"
 {
 	Properties
 	{

@@ -1,4 +1,4 @@
-﻿Shader "Week5/StencilWindow"
+﻿Shader "week5/outline-window"
 {
 	Properties
 	{

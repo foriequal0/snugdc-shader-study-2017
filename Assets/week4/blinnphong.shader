@@ -1,4 +1,4 @@
-﻿Shader "SNUGDC/blinnphong"
+﻿Shader "week4/blinnphong"
 {
 	Properties
 	{

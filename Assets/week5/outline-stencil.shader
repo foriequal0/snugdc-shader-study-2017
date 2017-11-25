@@ -1,4 +1,4 @@
-﻿Shader "Week5/OutlineStencil"
+﻿Shader "week5/outline-stencil"
 {
 	
 	Properties

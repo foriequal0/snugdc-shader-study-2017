@@ -1,4 +1,4 @@
-﻿Shader "SNUGDC/Outline"
+﻿Shader "week3/outline"
 {
 	Properties
 	{

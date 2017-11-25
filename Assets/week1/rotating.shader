@@ -1,4 +1,4 @@
-﻿	Shader "SNUGDC/MyFragmentShader"
+﻿	Shader "week1/rotating"
 {
 	SubShader
 	{

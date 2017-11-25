@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-Shader "SNUGDC/Billboard"
+Shader "week2/billboard"
 {
 	Properties
 	{
